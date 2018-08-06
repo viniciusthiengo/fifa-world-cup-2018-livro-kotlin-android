@@ -4,19 +4,19 @@ ADDED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/692aa1882c7e07f66306ea7e36ab8d70/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/511085513ec7387f71e7dba85e3bca02/AndroidManifest.xml:17:1-22:12
-MERGED from [com.evernote:android-state:1.3.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-state-1.3.1.aar/ffb85742cef0df226bdad335aecc3d43/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/51fe61d4cbc78d5f13f08cc72856e61a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/31fc4736840cd267c4b4c1f1b0206f96/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9f29c305bf2ccb789a01ccded1c2e90b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8dc8231d7d21737d41cf38cb6eb4df58/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a5f2a8ee74c6b948c9de9835a83a6c6b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/490dcd2134f998722a9e64a6a34c96b9/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a2373416f9f787b00da869a951ebaff/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/da78312d5f81b709c91e901d964f000c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9bafe198d4de93f07af14f136d33e51/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f2b6205868a6ea6268c119e73e94f5df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/def74cc3fc2a38ba8f2547e589211c7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.evernote:android-state:1.3.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-state-1.3.1.aar/904ea5fff7cb80dd32f2a2277e952fce/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b33124262a7e87c0ec4093683bc8469d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f502373b49b8f51a122832ed111b30c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbcae3612da6f582548a75f760cec461/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f277a2e698ad23acd35deb52eaa078d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f9b0e5f927a9d7054b6a1d60b92bc5e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f8aa1a480e7cd81adcea2d80a3904b74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5f2401303c7c8e0bdb5460d3e944af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1bb1f66971e47cf8ea1f8e4c4cc2227d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e08825d7782daeff7f9cb479849f900a/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml:2:1-23:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml:2:1-23:12
@@ -70,32 +70,32 @@ uses-sdk
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/692aa1882c7e07f66306ea7e36ab8d70/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/692aa1882c7e07f66306ea7e36ab8d70/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/511085513ec7387f71e7dba85e3bca02/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/511085513ec7387f71e7dba85e3bca02/AndroidManifest.xml:20:5-44
-MERGED from [com.evernote:android-state:1.3.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-state-1.3.1.aar/ffb85742cef0df226bdad335aecc3d43/AndroidManifest.xml:7:5-9:41
-MERGED from [com.evernote:android-state:1.3.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-state-1.3.1.aar/ffb85742cef0df226bdad335aecc3d43/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/51fe61d4cbc78d5f13f08cc72856e61a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/51fe61d4cbc78d5f13f08cc72856e61a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/31fc4736840cd267c4b4c1f1b0206f96/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/31fc4736840cd267c4b4c1f1b0206f96/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9f29c305bf2ccb789a01ccded1c2e90b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9f29c305bf2ccb789a01ccded1c2e90b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8dc8231d7d21737d41cf38cb6eb4df58/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8dc8231d7d21737d41cf38cb6eb4df58/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a5f2a8ee74c6b948c9de9835a83a6c6b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a5f2a8ee74c6b948c9de9835a83a6c6b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/490dcd2134f998722a9e64a6a34c96b9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/490dcd2134f998722a9e64a6a34c96b9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a2373416f9f787b00da869a951ebaff/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a2373416f9f787b00da869a951ebaff/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/da78312d5f81b709c91e901d964f000c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/da78312d5f81b709c91e901d964f000c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9bafe198d4de93f07af14f136d33e51/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9bafe198d4de93f07af14f136d33e51/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f2b6205868a6ea6268c119e73e94f5df/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f2b6205868a6ea6268c119e73e94f5df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/def74cc3fc2a38ba8f2547e589211c7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/def74cc3fc2a38ba8f2547e589211c7f/AndroidManifest.xml:20:5-44
+MERGED from [com.evernote:android-state:1.3.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-state-1.3.1.aar/904ea5fff7cb80dd32f2a2277e952fce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.evernote:android-state:1.3.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/android-state-1.3.1.aar/904ea5fff7cb80dd32f2a2277e952fce/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b33124262a7e87c0ec4093683bc8469d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b33124262a7e87c0ec4093683bc8469d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f502373b49b8f51a122832ed111b30c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f502373b49b8f51a122832ed111b30c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbcae3612da6f582548a75f760cec461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbcae3612da6f582548a75f760cec461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f277a2e698ad23acd35deb52eaa078d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f277a2e698ad23acd35deb52eaa078d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f9b0e5f927a9d7054b6a1d60b92bc5e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f9b0e5f927a9d7054b6a1d60b92bc5e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f8aa1a480e7cd81adcea2d80a3904b74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f8aa1a480e7cd81adcea2d80a3904b74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5f2401303c7c8e0bdb5460d3e944af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5f2401303c7c8e0bdb5460d3e944af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1bb1f66971e47cf8ea1f8e4c4cc2227d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1bb1f66971e47cf8ea1f8e4c4cc2227d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e08825d7782daeff7f9cb479849f900a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e08825d7782daeff7f9cb479849f900a/AndroidManifest.xml:20:5-44
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FIFAWorldCup2018/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
