@@ -26,7 +26,7 @@ O processo de migração é bem simples e pode ser seguido no tutorial a seguir:
 
 **ISBN:** PDF ➙ 978-85-924568-6-3 | ePUB ➙ 978-85-924568-7-0 | mobi ➙ 978-85-924568-8-7
 
-**Página para adquirir o livro:** https://www.thiengo.com.br/livro-desenvolvedor-kotlin-android
+**Página para conhecer o livro:** https://www.thiengo.com.br/livro-desenvolvedor-kotlin-android
 
 <img src="https://www.thiengo.com.br/img/livro/desenvolvedor-kotlin-android-bibliotecas-para-o-dia-a-dia/github/capas-livro-desenvolvedor-kotlin-android.jpg" alt="Capas do livro Desenvolvedor Kotlin Android - Bibliotecas para o dia a dia" width="390">
 
